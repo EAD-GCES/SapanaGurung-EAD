@@ -1,0 +1,1 @@
+This file consist list of all assignments.
