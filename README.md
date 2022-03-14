@@ -1,4 +1,4 @@
-# This file consist of links to all EAD assignments and practicals.
+### This file consist of links to all EAD assignments and practicals.
 
 ## Assignments
 ###
