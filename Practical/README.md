@@ -4,8 +4,8 @@
 ###
 | Sno.      | Title                   |    Practical Date                   |   Deadline Date            |
 | :---            |  :---                               | :---                   | :---                   |
-| 1                   | [Getting started with git](https://github.com/EAD-GCES/SapanaGurung-EAD/tree/main/Practical/Lab1)       | 25 Nov 2021                   |           2 Dec 2021        |
-2 | [Contributing to open source projects](https://github.com/EAD-GCES/SapanaGurung-EAD/tree/main/Practical/Lab2)       | 29 Nov 2021                   |           6 Dec 2021        |
-3 | [Implementing singleton design pattern](https://github.com/EAD-GCES/SapanaGurung-EAD/tree/main/Practical/Lab3)       | 29 Nov 2021                   |           6 Dec 2021        |
-4 | [Implementing factory design pattern](https://github.com/EAD-GCES/SapanaGurung-EAD/tree/main/Practical/Lab4)       | 6 Dec 2021                   |     13 Dec 2021              |
+| 1                   | [Getting started with git](https://github.com/EAD-GCES/SapanaGurung-EAD/tree/main/Practical/Lab1)       | 2078/08/09                   |           2078/08/16        |
+2 | [Contributing to open source projects](https://github.com/EAD-GCES/SapanaGurung-EAD/tree/main/Practical/Lab2)       | 2078/08/13                   |           2078/08/20        |
+3 | [Implementing singleton design pattern](https://github.com/EAD-GCES/SapanaGurung-EAD/tree/main/Practical/Lab3)       | 2078/08/13                   |           2078/08/20        |
+4 | [Implementing factory design pattern](https://github.com/EAD-GCES/SapanaGurung-EAD/tree/main/Practical/Lab4)       | 2078/08/20                   |     2078/08/27              |
 
