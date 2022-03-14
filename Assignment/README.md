@@ -1,8 +1,7 @@
-This file consist list of all assignments.
-                  
-1. [Government Enterprise Architecture Framework], Assigned date: 2078/08/05, Submission date: 2078/08/12
-2. [Short Notes On Agile Methodologies], Assigned date: 2078/09/19, Submission date: 2078/09/26
+## Assignments
+###
+| Assignment no:      | Title                   | Assigned Date                   | Submission Date                   |
+| :---            |  :---                               | :---                   | :---                   |
+| 1                   | [Government Enterprise Architecture Framework](https://github.com/EAD-GCES/SapanaGurung-EAD/blob/main/Assignment/AssignmentI.pdf)       | 2078/08/05                   | 2078/08/12                   |
+| 2                 | [Short notes on Agile Methodologies](https://github.com/EAD-GCES/SapanaGurung-EAD/blob/main/Assignment/Assignment2.pdf)       | 2078/09/19                   | 2078/09/26                   |
 
-
-  [Government Enterprise Architecture Framework]: AssignmentI.pdf
-  [Short Notes On Agile Methodologies]: Assignment2.pdf
